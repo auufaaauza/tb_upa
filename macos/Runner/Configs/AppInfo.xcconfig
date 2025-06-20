@@ -5,10 +5,10 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = tb_upa
+PRODUCT_NAME = tb_aufa
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.tbUpa
+PRODUCT_BUNDLE_IDENTIFIER = com.example.tbAufa
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.
